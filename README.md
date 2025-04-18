@@ -15,7 +15,7 @@
   <li>🎓 Passionate about <strong>Cryptography & Information Security</strong></li>
   <li>💻 Currently learning advanced topics in <strong>Cyber Defense & CTFs</strong></li>
   <li>🚀 Exploring real-world attack vectors and <strong>ethical hacking</strong></li>
-  <li>📫 Reach me at: <a href="mailto:gaurav@example.com">gaurav@example.com</a></li>
+  <li>📫 Reach me at: <a href="[mailto:gaurav@example.com](https://www.instagram.com/gaurav007865?igsh=MWdtN2drOHpxOTFqcg==)">gaurav@example.com</a></li>
 </ul>
 
 <hr>
