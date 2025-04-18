@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">🚀 Hey, I'm Gaurav</h1>
-<h3 align="center">C/C++ Engineer | Java Developer | Cybersecurity Explorer</h3>
+<h3 align="center">Diploma Student | Passionate C/C++ Programmer | Cybersecurity Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaurav007865&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
