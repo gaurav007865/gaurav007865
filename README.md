@@ -36,9 +36,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&show_icons=true&theme=dark&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav007865&theme=dark&hide_border=true" />
-</p>
-
+  </p>
+<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="100px">
 <hr>
 
 <!-- Footer Typing Effect -->
