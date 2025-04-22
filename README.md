@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&show_icons=true&theme=dark&hide_border=true" />
   <br />
   </p>
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="100px">
+<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="500px">
 <hr>
 
 <!-- Footer Typing Effect -->
