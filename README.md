@@ -1,46 +1,23 @@
-<!-- README.md -->
+# 💫 About Me:
+I focus on understanding things by actually doing them, not just by reading or memorizing.<br><br>I like working on ideas that can be turned into something real and usable. For me, the process matters — thinking deeply, solving problems step by step, and improving with every attempt.<br><br>I also enjoy helping others understand concepts in a simple way, because clarity matters more than complexity.<br><br>I am constantly working on becoming better than I was yesterday, one step at a time.<br>
 
-<h1 align="center">🚀 Hey, I'm Gaurav</h1>
-<h3 align="center">Diploma Student | Passionate C/C++ Programmer | Cybersecurity Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurav007865&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav007865.linkedin.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanadegaurav81@gmail.com) 
 
-<hr>
+# 💻 Tech :
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gaurav007865&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gaurav007865&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav007865&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- About Me -->
-<h2>🧠 About Me</h2>
-<ul>
-  <li>💻 I'm a developer who codes in <strong>C, C++</strong>, and <strong>Java</strong></li>
-  <li>🔐 Fascinated by Cryptography, Ethical Hacking & Capture The Flag</li>
-  <li>📚 Always learning something new in the InfoSec world</li>
-  <li>📷 Connect with me on Instagram: <a href="https://www.instagram.com/gaurav007865?igsh=MWdtN2drOHpxOTFqcg==" target="_blank">@gaurav007865</a></li>
-</ul>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gaurav007865&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gaurav007865&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Languages & Tools -->
-<h2>🛠️ Languages & Tools</h2>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=gaurav007865&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<hr>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  </p>
-<img src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" width="500px">
-<hr>
-
-<!-- Footer Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hello+World+🌍;C%2FC%2B%2B+Dev+with+Cyber+Vision+💻;Follow+@gaurav007865+on+Instagram+📷;Keep+Learning%2C+Keep+Building+🚀" />
-</p>
