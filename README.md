@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="30%" alt="header" src="https://github.com/user-attachments/assets/b0b106db-a1cd-4b0d-93e8-d3f2ba9c4968" />
+    <img width="40%" alt="header" src="https://github.com/user-attachments/assets/b0b106db-a1cd-4b0d-93e8-d3f2ba9c4968" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=22&center=true&vCenter=true&width=850&lines=✍️+I+learn+by+building%2C+not+just+reading.;✍️+I+turn+ideas+into+real+and+usable+things.;✍️+I+think+deeply+and+solve+problems+step+by+step.;✍️+I+simplify+complex+concepts+for+better+understanding.;✍️+Always+improving+—+one+step+at+a+time." />
