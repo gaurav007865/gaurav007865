@@ -1,46 +1,69 @@
-<p align="center">
-    <img width="40%" alt="header" src="https://github.com/user-attachments/assets/b0b106db-a1cd-4b0d-93e8-d3f2ba9c4968" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=22&center=true&vCenter=true&width=850&lines=✍️+I+learn+by+building%2C+not+just+reading.;✍️+I+turn+ideas+into+real+and+usable+things.;✍️+I+think+deeply+and+solve+problems+step+by+step.;✍️+I+simplify+complex+concepts+for+better+understanding.;✍️+Always+improving+—+one+step+at+a+time." />
-</p>
+<div align="center">
 
-<h2 align="center">🌐 Socials:</h2>
+<img src="https://github.com/user-attachments/assets/b0b106db-a1cd-4b0d-93e8-d3f2ba9c4968" width="40%" alt="Header"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/gaurav007865.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kanadegaurav81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# Hi 👋, I'm Gaurav Kanade
 
-# 💻 Tech :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Status:
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=gaurav007865&theme=gruvbox&hide_border=false"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav007865&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    </td>
-  </tr>
-</table>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kanadegaurav81@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://gaurav-pf.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,aws,azure,firebase,sqlite,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+
+<img height="170" src="https://streak-stats.demolab.com?user=gaurav007865&theme=gruvbox&hide_border=true"/>
+
+</div>
+
 <br>
 
-<p align="center">
-  <a href="https://gaurav-pf.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<br> 
+
+
+</div>
+
+---
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
