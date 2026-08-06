@@ -2,7 +2,6 @@
 
 <img src="https://github.com/user-attachments/assets/b0b106db-a1cd-4b0d-93e8-d3f2ba9c4968" width="40%" alt="Header"/>
 
-# Hi 👋, I'm Gaurav Kanade
 
 </div>
 
